@@ -1,0 +1,32 @@
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\stdioCore.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\stdioCore.pdb
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\EntityFramework.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\MySql.Data.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\MySql.Data.xml
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\obj\Debug\stdioCore.csprojResolveAssemblyReference.cache
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\obj\Debug\stdioCore.dll
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\obj\Debug\stdioCore.pdb
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\EntityFramework.xml
+C:\Users\erhan.KOZA\Documents\Visual Studio 2015\Projects\ecz_v0.0.1\stdioCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\stdioCore.dll
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\stdioCore.pdb
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\MySql.Data.dll
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\MySql.Data.xml
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\obj\Debug\stdioCore.csprojResolveAssemblyReference.cache
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\obj\Debug\stdioCore.dll
+C:\Users\erhan\documents\visual studio 2015\Projects\REM\stdioCore\obj\Debug\stdioCore.pdb
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\stdioCore.dll
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\stdioCore.pdb
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\MySql.Data.dll
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\System.Web.Mvc.dll
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\MySql.Data.xml
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\bin\Debug\System.Web.Mvc.xml
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\obj\Debug\stdioCore.dll
+C:\Users\erhan\Desktop\rem\trunk\stdioCore\obj\Debug\stdioCore.pdb

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<stdioCore.GlobaCompanyModel>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.companyID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.companyName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.companyID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.companyName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.companyID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.companyID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.companyID })
+        </td>
+    </tr>
+}
+
+</table>
